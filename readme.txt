@@ -3,7 +3,7 @@ MATLAB2019 / MATLAB2018 / MATLAB2017
 
 二、文件说明
 1. SARMA_Forecast.m
-知乎专栏（https://zhuanlan.zhihu.com/p/117595003）中的多步预测代码。为脚本文件，可以直接运行。其中调用了Fun_SARIMA_Forecast.。
+知乎专栏（https://zhuanlan.zhihu.com/p/117595003）中的多步预测代码。为脚本文件，可以直接运行。其中调用了SARMA_Order_Select和creatSARIMA
 2. Demo_SARIMA.m
 调用Fun_SARIMA_Forecast 进行多步预测的demo。m文件，可以直接运行
 3. SARMA_Order_Select.p
